@@ -1,4 +1,4 @@
-<img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/62a33e2e-5d6f-4342-94f8-e7929171e0d4" /><img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/c00e1488-1b96-4b9c-9783-caf3bd13c213" /><img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/b9ad0ee4-0d16-4119-98fa-8a5645075ba1" /># excel-sales-profit-analytics
+<img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/62a33e2e-5d6f-4342-94f8-e7929171e0d4" 
 Excel Sales &amp; Profit Dashboard Analysis Project
 # 📊 Sales & Profit Analysis (Excel Project)
 
